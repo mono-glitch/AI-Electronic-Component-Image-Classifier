@@ -16,9 +16,9 @@
 |------------|-------------|
 | EfficientNetV2S_model.keras | EfficientNetV2S architecture, optimized for balanced accuracy and efficiency with progressive learning and improved scaling. |
 | ResNet50_model.keras | Base ResNet50 model, a 50-layer deep residual network known for effective feature extraction and reduced vanishing gradient. |
-| FinalModel_ResNet50.keras | Final tuned ResNet50 model, incorporating optimizations and refinements for best performance. |
-| ViT1.keras | Vision Transformer (ViT) built from scratch, guided by the official Keras documentation on image classification with ViTs. |
-| vit2.pth | Pre-trained vit_b_16 model from HuggingFace, implemented with transfer learning on a custom dataset using a ViT model pre-trained on ImageNet. |
+| FinalModel_ResNet50.keras | Final tuned ResNet50 model. |
+| ViT1.keras | Vision Transformer (ViT) built from scratch, guided by the [official Keras documentation](https://keras.io/examples/vision/image_classification_with_vision_transformer/) on image classification with ViTs. |
+| vit2.pth | Pre-trained vit_b_16 model from HuggingFace, implemented with reference to a [GitHub repository demonstration](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning/tree/main) on transfer learning with a ViT model pre-trained on ImageNet and applied to a custom dataset. |
 
 ## Other Files
 
