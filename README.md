@@ -22,7 +22,7 @@
 
 ## Other Files
 
-- - **[project_IT1244.html](https://github.com/mono-glitch/AI-Electronic-Component-Image-Classifier/blob/1214fa1ec292b5818735e0b19752645aafbcc3eb/project_IT1244.html)** – A web-friendly version of the notebook for convenient viewing of the project outputs.
+- **[project_IT1244.html](https://github.com/mono-glitch/AI-Electronic-Component-Image-Classifier/blob/1214fa1ec292b5818735e0b19752645aafbcc3eb/project_IT1244.html)** – A web-friendly version of the notebook for convenient viewing of the project outputs.
 
 - **[Readme.pdf](https://github.com/mono-glitch/AI-Electronic-Component-Image-Classifier/blob/1214fa1ec292b5818735e0b19752645aafbcc3eb/Readme.pdf)** – Instructions for setting up the Python environment and running `project_IT1244.ipynb` from scratch.
 
