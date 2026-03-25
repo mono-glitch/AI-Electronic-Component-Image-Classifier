@@ -27,3 +27,12 @@
 - **[Readme.pdf](https://github.com/mono-glitch/AI-Electronic-Component-Image-Classifier/blob/1214fa1ec292b5818735e0b19752645aafbcc3eb/Readme.pdf)** – Instructions for setting up the Python environment and running `project_IT1244.ipynb` from scratch.
 
 - **[requirements.txt](https://github.com/mono-glitch/AI-Electronic-Component-Image-Classifier/blob/1214fa1ec292b5818735e0b19752645aafbcc3eb/requirements.txt)** – A list of Python libraries required to execute `project_IT1244.ipynb`.
+
+## Contributors
+
+| No. | Name |
+|-----|------|
+| 1 | Too Bonnie |
+| 2 | Sun Xiaoting |
+| 3 | Xi Tianyilin |
+| 4 | Fang Jinfeng |
