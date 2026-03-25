@@ -1,7 +1,7 @@
 # **<ins>AI Electronic Component Image Classifier</ins>**
 
 ## Summary
-- Designed CNN models (EfficientNetV2-S, ResNet50) & Vision Transformers to classify 32 electrical component classes, achieving >91% filtered accuracy and a 0.74 macro F1 score in final model ResNet50
+- Designed CNN models (EfficientNetV2-S, ResNet50) & Vision Transformers in Python to classify 32 electrical component classes, achieving >91% filtered accuracy and a 0.74 macro F1 score in final model ResNet50
 - Addressed a 6.5× class imbalance by reweighing, and implemented image augmentation (cropping, rotation, brightness shifts), improving minority‑class recall and ensuring fairer performance for real‑world deployment
 
 ## Main Files
