@@ -1,0 +1,33 @@
+# core
+jupyter
+nbconvert
+ipykernel
+
+# data manipulation
+numpy
+pandas
+
+# data visualization
+matplotlib
+seaborn
+
+# image processing
+pillow
+
+# progress bars
+tqdm
+
+# machine learning
+scikit-learn
+
+# deep learning - tensorflow
+tensorflow
+keras
+tf-keras
+
+# deep learning - pytorch
+torch
+torchvision
+
+# transformers
+transformers
