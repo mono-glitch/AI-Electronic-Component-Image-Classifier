@@ -10,7 +10,7 @@
 
 - **[Project Report.pdf](https://github.com/mono-glitch/AI-Electronic-Component-Image-Classifier/blob/1214fa1ec292b5818735e0b19752645aafbcc3eb/Project%20Report.pdf)** – A comprehensive project report following AAAI format, detailing the rationale, methodology, results, and references.
 
-- **[Models](https://drive.google.com/drive/folders/1o-S5imWw0PS8k0r-eAKh89uPM3fKqgr6)**
+- **Models ([Google Drive](https://drive.google.com/drive/folders/1o-S5imWw0PS8k0r-eAKh89uPM3fKqgr6))**
   
 | Model File | Description |
 |------------|-------------|
@@ -20,7 +20,7 @@
 | ViT1.keras | Vision Transformer (ViT) built from scratch, guided by the [official Keras documentation](https://keras.io/examples/vision/image_classification_with_vision_transformer/) on image classification with ViTs. |
 | vit2.pth | Pre-trained vit_b_16 model from HuggingFace, implemented with reference to a [GitHub repository demonstration](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning/tree/main) on transfer learning with a ViT model pre-trained on ImageNet and applied to a custom dataset. |
 
-- Presentation Slides ([Canva](https://www.canva.com/design/DAG3X1e6kmE/50EAlUKdeZLANWCG83ZVJQ/view?utm_content=DAG3X1e6kmE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9605257388))
+- **Presentation Slides ([Canva](https://www.canva.com/design/DAG3X1e6kmE/50EAlUKdeZLANWCG83ZVJQ/view?utm_content=DAG3X1e6kmE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9605257388))**
 
 ## Other Files
 
