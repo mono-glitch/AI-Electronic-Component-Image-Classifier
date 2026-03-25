@@ -20,7 +20,7 @@
 | ViT1.keras | Vision Transformer (ViT) built from scratch, guided by the [official Keras documentation](https://keras.io/examples/vision/image_classification_with_vision_transformer/) on image classification with ViTs. |
 | vit2.pth | Pre-trained vit_b_16 model from HuggingFace, implemented with reference to a [GitHub repository demonstration](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning/tree/main) on transfer learning with a ViT model pre-trained on ImageNet and applied to a custom dataset. |
 
-## Presentation Slides ([Canva](https://www.canva.com/design/DAG3X1e6kmE/50EAlUKdeZLANWCG83ZVJQ/view?utm_content=DAG3X1e6kmE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9605257388))
+- Presentation Slides ([Canva](https://www.canva.com/design/DAG3X1e6kmE/50EAlUKdeZLANWCG83ZVJQ/view?utm_content=DAG3X1e6kmE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9605257388))
 
 ## Other Files
 
